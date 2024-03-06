@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561490061581",
+    "project_id": "problog-36f20",
+    "storage_bucket": "problog-36f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561490061581:android:59571cba083bdfd30fe844",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQAkDChA9IaUXwK4PVTzaJ51bVDR6apA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
